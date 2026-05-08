@@ -1,0 +1,5 @@
+{
+  "udp_port": 5005,
+  "stale_packet_ms": 100,
+  "sensor_timeout_ms": 500
+}

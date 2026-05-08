@@ -1,0 +1,7 @@
+{
+  "prep_countdown_s": 5,
+  "recording_window_s": 10,
+  "transition_pause_s": 1.5,
+  "max_retries": 1,
+  "min_valid_range_deg": 5
+}

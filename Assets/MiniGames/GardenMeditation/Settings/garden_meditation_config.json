@@ -1,0 +1,8 @@
+{
+  "inhale_s": 4.0,
+  "hold_s": 7.0,
+  "exhale_s": 8.0,
+  "use_microphone": false,
+  "mic_amplitude_target": 0.18,
+  "ambient_music_clip": "garden_ambient"
+}
